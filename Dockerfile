@@ -1,4 +1,4 @@
-BASE IMAGE
+#BASE IMAGE
 ###########################################
 
 FROM ubuntu AS build
